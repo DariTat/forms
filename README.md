@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/08937mpuhq6mjqp2?svg=true)](https://ci.appveyor.com/project/DariTat/forms)
+
 # Домашнее задание к занятию "Работа с HTML-формами"
 
 Правила сдачи задания:
